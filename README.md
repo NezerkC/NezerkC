@@ -31,6 +31,7 @@
 | [**kimera**](https://github.com/NezerkC/kimera) | `Python` `Flet` `MCP` `ChromaDB` | Next-generation agentic HUD desktop app with modular MCP tools, memory management, and dynamic model routing. |
 | [**ai-architecture-vault**](https://github.com/NezerkC/ai-architecture-vault) | `Obsidian` `Ontology` `SDD` | Curated engineering knowledge base, Dijkstra routing networks, and governance skills for production AI agents. |
 | [**llama-cpp-launcher**](https://github.com/NezerkC/llama-cpp-launcher) | `Python` `llama.cpp` `CUDA` | Optimized benchmarking and execution tool for local LLMs under Windows environments. |
+| [**vision-cognitive-agent**](https://github.com/NezerkC/vision-cognitive-agent) | `Python` `LanceDB` `CLIP` `LiteLLM` | Autonomous episodic visual memory and reasoning agent powered by CLIP embeddings and LanceDB vector indexing. |
 | [**quicknote-ai**](https://github.com/NezerkC/quicknote-ai) | `Kotlin` `Android` `REST` | Clean mobile application providing rapid note-taking paired with intelligent AI summarization and categorization. |
 
 ---
